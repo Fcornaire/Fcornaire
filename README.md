@@ -29,6 +29,8 @@ You can find my works on my profiles but i'm mostly working on:
 - [SlopCrew](https://github.com/SlopCrew/SlopCrew) By [NotNite](https://github.com/NotNite), contribued to add the race mod
 - [BRCreator](https://github.com/Fcornaire/BRCreator) A unity plugin for creating race for [SlopCrew](https://github.com/SlopCrew/SlopCrew)
 - [ACTBossesRespawner](https://github.com/Fcornaire/ACTBossesRespawner) A mod to let you re fight previous on the game `Another crab's threasure`
+-
+[HBWAbilitySwitcher](https://github.com/Fcornaire/HBWAbilitySwitcher) Ability Switcher for `Haste Broken Worlds`
 
 Consider a small support of my patreon if you like my works 😅 (or want to help with maintaining [TF.EX](https://github.com/Fcornaire/TF.EX) matchmaking server )
 
