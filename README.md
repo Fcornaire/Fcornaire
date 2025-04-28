@@ -30,9 +30,9 @@ You can find my works on my profiles but i'm mostly working on:
 - [BRCreator](https://github.com/Fcornaire/BRCreator) A unity plugin for creating race for [SlopCrew](https://github.com/SlopCrew/SlopCrew)
 - [ACTBossesRespawner](https://github.com/Fcornaire/ACTBossesRespawner) A mod to let you re fight previous on the game `Another crab's threasure`
 - [HBWAbilitySwitcher](https://github.com/Fcornaire/HBWAbilitySwitcher) Ability Switcher for `Haste Broken Worlds`
-- [Balatro-vs](https://github.com/Fcornaire/balatro-vs) A balatro versus mod 
+- [Balatro-vs](https://github.com/Fcornaire/balatro-vs) A Balatro versus mod 
 
-Consider a small support of my patreon if you like my works 😅 (or want to help with maintaining [TF.EX](https://github.com/Fcornaire/TF.EX) matchmaking server )
+Consider a small support of my patreon if you like my works (or want to help with maintaining [TF.EX](https://github.com/Fcornaire/TF.EX) or [Balatro-vs](https://github.com/Fcornaire/balatro-vs) matchmaking server )
 
 ---
 
