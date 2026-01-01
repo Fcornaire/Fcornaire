@@ -25,12 +25,13 @@ I have a full time job and one of my hobby (when i have the time) is game moddin
 
 You can find my works on my profiles but i'm mostly working on:
 
+- [Megabonk-Together](https://github.com/Fcornaire/megabonk-together) A Megabonk netplay mod
+- [Balatro-vs](https://github.com/Fcornaire/balatro-vs) A Balatro versus mod 
 - [TF.EX](https://github.com/Fcornaire/TF.EX) A rollback netcode/matchmaker mod for TowerFall
 - [SlopCrew](https://github.com/SlopCrew/SlopCrew) By [NotNite](https://github.com/NotNite), contribued to add the race mod
 - [BRCreator](https://github.com/Fcornaire/BRCreator) A unity plugin for creating race for [SlopCrew](https://github.com/SlopCrew/SlopCrew)
 - [ACTBossesRespawner](https://github.com/Fcornaire/ACTBossesRespawner) A mod to let you re fight previous on the game `Another crab's threasure`
 - [HBWAbilitySwitcher](https://github.com/Fcornaire/HBWAbilitySwitcher) Ability Switcher for `Haste Broken Worlds`
-- [Balatro-vs](https://github.com/Fcornaire/balatro-vs) A Balatro versus mod 
 
 Consider a small support of my patreon if you like my works (or want to help with maintaining [TF.EX](https://github.com/Fcornaire/TF.EX) or [Balatro-vs](https://github.com/Fcornaire/balatro-vs) matchmaking server )
 
